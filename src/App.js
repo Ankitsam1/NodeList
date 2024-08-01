@@ -7,7 +7,7 @@ import Timer from './components/Timer/Timer';
 import Todo from './components/Todo/Todo';
 function App() {
    useEffect(() => {
-     document.title = "LeafList";
+     document.title = "Notepad";
    }, []);
   return (
     <div className="container">
